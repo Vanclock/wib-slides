@@ -16,7 +16,7 @@ N=os.environ.get('WIB_FONTS', os.path.join(os.path.dirname(os.path.abspath(__fil
 F={'serif':N+'playfair-display/files/playfair-display-latin-700-normal.woff','serifi':N+'playfair-display/files/playfair-display-latin-400-italic.woff',
    'sans':N+'inter/files/inter-latin-400-normal.woff','sansb':N+'inter/files/inter-latin-600-normal.woff'}
 fonts={k:TTFont(v) for k,v in F.items()}
-BG='#F6EDE0'; INK='#2A1E17'; ACC='#B5472B'; MUTE='#7A6659'; W,H=1080,1350; M=90
+BG='#F6E7C8'; INK='#43321A'; ACC='#A8553A'; MUTE='#7A6446'; W,H=1080,1350; M=90
 def width(font,t,size,track=0):
     f=fonts[font];cm=f.getBestCmap();hm=f['hmtx'];s=size/f['head'].unitsPerEm
     return sum(hm[cm.get(ord(c),cm[32])][0]*s+track for c in t)-track if t else 0
@@ -65,7 +65,7 @@ def where(d,n,total,handle,date):
         p,y=para('sans',t,38,M,y+92,W-2*M,54);o+=p;y+=26
     return frame(o,n,total,handle,date)
 def tip(d,n,total,handle,date):
-    o=f'<rect x="{M}" y="200" width="{W-2*M}" height="760" rx="18" fill="#EAD9C4"/>'
+    o=f'<rect x="{M}" y="200" width="{W-2*M}" height="760" rx="18" fill="#E8D8B8"/>'
     o+=text('sansb','DICA DO DIA',26,M+50,270,track=4,fill=ACC)
     p,y=para('serif',d['head'],60,M+50,360,W-2*M-100,74);o+=p;y+=20
     for t in d['body']:
