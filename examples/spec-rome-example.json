@@ -1,0 +1,10 @@
+{"handle":"@romasemsentido","date":"24 de outubro","total":8,"outdir":"/tmp/claude-0/rome-test",
+"cover":{"n":1,"kicker":"História de Roma","title":"O dia em que Roma ficou sem água","subtitle":"E por que seus aquedutos ainda impressionam"},
+"slides":[
+{"n":2,"type":"story","kicker":"A história","head":"Aquedutos: a rede que alimentava uma cidade","body":["Exemplo de texto para testar a quebra de linhas com acentuação: coração, ação, não, é, à, ç.","Segundo parágrafo curto, com um fato verificável e a fonte indicada no final do texto."]},
+{"n":3,"type":"story","kicker":"O contexto","head":"Como funcionava","body":["Exemplo de segundo slide da história, com dois parágrafos curtos."]},
+{"n":4,"type":"story","kicker":"Curiosidade","head":"Um detalhe que poucos notam","body":["Exemplo de curiosidade, com fonte."]},
+{"n":5,"type":"where","head":"Parco degli Acquedotti","items":[["Endereço","Via Lemonia, Roma"],["Como chegar","Metrô linha A, estação Giulio Agricola"],["Horário","Confira no site oficial"]]},
+{"n":6,"type":"tip","head":"Vá no fim da tarde","body":["Exemplo de dica prática, curta, sem preços não verificados."]},
+{"n":7,"type":"tip","head":"Roma hoje","body":["Eventos, greves e fechamentos do dia, com fonte oficial."]}],
+"outro":{"n":8,"credits":["Foto: Autor, licença CC BY-SA 4.0, via Wikimedia Commons"]}}
