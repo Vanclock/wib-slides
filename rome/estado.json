@@ -1,5 +1,5 @@
 {
- "proximo": 49,
+ "proximo": 50,
  "observacao": "Menor n.º do plano editorial ainda não publicado. Atualizar a cada execução. O n.º 46 foi publicado no blog em 29/10/2026 e no Instagram à mão.",
  "publicados": [
   {
@@ -26,6 +26,12 @@
    "blog": "2026-11-04",
    "carrossel": "2026-11-04 19:00 America/Sao_Paulo",
    "stories": "2026-11-05 (06:45, 08:30, 11:30, 13:30, 14:30, 18:45, 20:30 Brasília)"
+  },
+  {
+   "n": 49,
+   "blog": "2026-11-09",
+   "carrossel": "2026-11-09 19:00 America/Sao_Paulo",
+   "stories": "2026-11-10 (06:45, 08:30, 11:30, 13:30, 14:30, 18:45, 20:30 Brasília)"
   }
  ]
 }
