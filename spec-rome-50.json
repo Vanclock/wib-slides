@@ -1,0 +1,10 @@
+{"handle":"@romasemsentido","date":"13 de novembro","total":8,"outdir":"/tmp/rome-50",
+"cover":{"n":1,"kicker":"História da Sicília","title":"Siracusa: a colônia grega nascida em Ortigia","subtitle":"Uma ilha com água doce e um fundador coríntio"},
+"slides":[
+{"n":2,"type":"story","kicker":"A fundação","head":"Arquias de Corinto","body":["Segundo Tucídides, Arquias, um heraclida de Corinto, fundou Siracusa no ano seguinte a Naxos, depois de expulsar os sículos (TUCÍDIDES, VI, 3).","A data costuma ser dada como cerca de 734–733 a.C. (LIVIUS.ORG, 2026)."]},
+{"n":3,"type":"story","kicker":"O lugar","head":"Por que Ortigia?","body":["A ilha tinha água doce: a Fonte Aretusa, que brota à beira-mar. Era uma base fácil de defender e abastecer (LIVIUS.ORG, 2026).","O edifício mais antigo achado em Ortigia é do século VIII a.C. (LIVIUS.ORG, 2026)."]},
+{"n":4,"type":"story","kicker":"A tradição","head":"Oráculos e lenda","body":["Pausânias conta que Delfos mandou Arquias a uma “Ortígia na Trinácria”. Outra tradição fala em escolher entre saúde e riqueza (SMITH, 1890).","São histórias que explicam o destino das cidades depois do fato, não registros verificáveis."]},
+{"n":5,"type":"story","kicker":"O crescimento","head":"Da ilha ao continente","body":["Siracusa passou para o continente e fundou as próprias colônias: Acras (663 a.C.), Casmenas (643 a.C.) e Camarina (598 a.C.) (LIVIUS.ORG, 2026)."]},
+{"n":6,"type":"where","head":"Onde ver","items":[["1. Fonte Aretusa","A nascente de Ortigia, hoje com mirante sobre o mar"],["2. Templo de Apolo","Templo dórico do início do século VI a.C., em Ortigia"],["3. Parque da Neapolis","Teatro grego com 67 fileiras de degraus"]]},
+{"n":7,"type":"tip","head":"Antes de ir","body":["Confira horários e ingressos no site oficial do Parque Arqueológico de Siracusa e dos locais. Eles mudam com frequência."]}],
+"outro":{"n":8,"credits":["Fotos: Sella (CC BY-SA 2.0), Clemensfranz (CC BY-SA 3.0), Urban (CC BY-SA 3.0), Dedda71 (CC BY-SA 3.0), Victoria (CC BY 2.0), via Wikimedia Commons"]}}
